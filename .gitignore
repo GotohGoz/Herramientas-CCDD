@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+Guia1/Exploracion_Datos/Datos/Senal_1D/GTZAN/gtzan-musicspeech-collection-v1.zip
+Guia1/Exploracion_Datos/Datos/Senal_1D/GTZAN/original_v1/
+Guia1/Exploracion_Datos/Datos/Imagen_2D/PV_Termografia/photovoltaic-system-thermography-v3.zip
+Guia1/Exploracion_Datos/Datos/Imagen_2D/PV_Termografia/original_v3/
