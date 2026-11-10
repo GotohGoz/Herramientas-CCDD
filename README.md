@@ -5,3 +5,7 @@ Los archivos `requirements.txt` y `.gitignore` se irán actualizando a medida de
 ## Commit del 2026/10/22
 
 Se comenzó la repo, se agregó el `README` base y se desarrolló la guía N°1 en su carpeta correspondiente con lo que se pidió para ser entregada.
+
+## Commit del 2026/11/09
+
+Se agregan los archivos para el trabajo de la red neuronal manual. ([Red Neuronal desde cero](./Red_Neuronal/README.md))
